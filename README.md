@@ -17,7 +17,7 @@ SJSU CS 108 Final Project
 ### What software did you use?
 GameMaker 8
 
-## Where did we get the ideas from?
+### Where did we get the ideas from?
 - Maplestory
 - Runescape
 - Terraria
