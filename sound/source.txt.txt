@@ -13,3 +13,6 @@ https://opengameart.org/content/fire-crackling - starting fire
 https://opengameart.org/content/spell-4-fire - shooting fire ball
 https://opengameart.org/content/water-waves - soothing background wave music
 https://opengameart.org/content/water-splashes - splashing music when rod enters water
+https://opengameart.org/content/bird-chirping-sounds - bird chirping
+https://opengameart.org/content/skippy-fish-water-sound-collection - fish sounds
+https://opengameart.org/content/spell-sounds-starter-pack - spider sound 
