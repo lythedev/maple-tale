@@ -1,12 +1,19 @@
 background music: 
 
 http://soundimage.org/fantasywonder/
-
 http://soundimage.org/wp-content/uploads/2014/02/Winding-Down.mp3
 
 sound effects:
 
 https://opengameart.org/content/512-sound-effects-8-bit-style
-
-
 https://opengameart.org/content/50-rpg-sound-effects
+https://opengameart.org/content/battle-sound-effects
+http://soundbible.com/2033-Frogs.html - frog ribbit
+https://opengameart.org/content/fire-crackling - starting fire
+https://opengameart.org/content/spell-4-fire - shooting fire ball
+https://opengameart.org/content/water-waves - soothing background wave music
+https://opengameart.org/content/water-splashes - splashing music when rod enters water
+https://opengameart.org/content/bird-chirping-sounds - bird chirping
+https://opengameart.org/content/skippy-fish-water-sound-collection - fish sounds
+https://opengameart.org/content/spell-sounds-starter-pack - spider sound 
+https://opengameart.org/content/level-up-power-up-coin-get-13-sounds - Level up sounds
